@@ -14,9 +14,10 @@ Se efoca en replicar la apariencia visual de Pinterest, ofreciendo una experienc
  + **CSS3** Para el diseño y el estilo, inclut¿yendo _flexbox_ para un diseño respponsivo y efectos de _hover_.
  + **Google Fonts:** Para fuentes personalizadas.
 
-###**Vista previa del proyecto***
+### **Vista previa del proyecto**
 ![Demo](imagenes/viewPinClon.png)
 
 ### Contacto
-Si te gustaría invitarme a colaborar en un proyecto; escríbeme por [Instagram](https://www.instagram.com/cep_0131/).
+Si te gustaría invitarme a colaborar en un proyecto; escríbeme por [Instagram](https://www.instagram.com/cep_0131/) [LinkedIn](https://www.linkedin.com/in/esmecontrerasp/)
+
    
