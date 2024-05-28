@@ -15,7 +15,7 @@ Se efoca en replicar la apariencia visual de Pinterest, ofreciendo una experienc
  + **Google Fonts:** Para fuentes personalizadas.
 
 ###**Vista previa del proyecto***
-![Demo](imagenes/i1.jpg)
+![Demo](imagenes/viewPinClon.png)
 
 ### Contacto
 Si te gustaría invitarme a colaborar en un proyecto; escríbeme por [Instagram](https://www.instagram.com/cep_0131/).
